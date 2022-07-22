@@ -1,1 +1,3 @@
 # GCP_TELEGRAM_BOT
+
+This is a simple python project wherein we have created a telegram chat-bot and the bot responds to that particular text and we have also used a text to speech recognition API and used translational api to translate speech in kannada , gave voice to the bot but we have saved the audio in a file ,we trained datset worked on Mall_predictions.csv which is a regression model and trained it using AutoML and deployed it in VertexAI so whenever user wishes to know the spendings(‘target outcome’) by mentioning id,gender,age,income although we were not able to interface this but we got the predictions in google cloud SDK terminal using endpoints.
